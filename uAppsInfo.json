@@ -4,5 +4,10 @@
 	"uTime_Universal": "5.3.1",
     "uTime_macOS": null,
 	"uTime_Legacy": "3.1.2",
-	"uApps_News": "Critical uTime Fix for macOS out now!"
+	"uApps_News": ""Critical uTime Fix for macOS out now!",
+    "uTime_Announcement": {
+        "Message_Active": true,
+        "Announcement_Number": 1,
+        "Message": "As 2020 blah test message for destruction"
+    }
 }

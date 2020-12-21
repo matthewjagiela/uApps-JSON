@@ -1,0 +1,16 @@
+{
+	"uFail_Version": "11.0.1",
+	"uSurf_Version": "6.3.1",
+	"uTime_Universal": "5.3.1",
+    "uTime_macOS": null,
+	"uTime_Legacy": "3.1.2",
+<<<<<<< HEAD
+	"uApps_News": "Critical uTime Fix for macOS out now!"
+=======
+	"uApps_News": "uFail Finale Out Now",
+    "uTime_Announcement": {
+        "Announcement": 1,
+        "Message": "No Message"
+    }
+>>>>>>> uTime Announcement JSON
+}
