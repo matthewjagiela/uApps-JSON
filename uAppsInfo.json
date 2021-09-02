@@ -1,8 +1,21 @@
 {
 	"uFail_Version": "11.0.2",
 	"uSurf_Version": "6.4",
-	"uTime_Universal": "5.4.2",
+	"uTime_Universal": "6",
     "uTime_macOS": null,
 	"uTime_Legacy": "3.1.2",
-	"uApps_News": "uTime 5.4.2 Out Now!"
+	"uApps_News": "uTime 6 Out Now!",
+    "messages": {
+        "uTime": {
+            "Message_Active": false,
+            "Announcement_Number": 1,
+            "Message": "Test Message"
+        },
+        "uSurf": {
+            "Message_Active": true,
+            "Announcement_Number": 1,
+            "Message": "Test Message"
+        }
+    }
+}
 }
