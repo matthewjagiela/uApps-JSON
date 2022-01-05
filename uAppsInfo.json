@@ -15,6 +15,11 @@
             "Message_Active": true,
             "Announcement_Number": 1,
             "Message": "Test Message"
+        },
+        "uApps": {
+            "Message_Active": true,
+            "Announcement_Number": 1,
+            "Message": "Test Message For General uApps"
         }
     }
 }
