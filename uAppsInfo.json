@@ -12,12 +12,12 @@
             "Message": "Test Message"
         },
         "uSurf": {
-            "Message_Active": true,
+            "Message_Active": false,
             "Announcement_Number": 1,
             "Message": "Test Message"
         },
         "uApps": {
-            "Message_Active": true,
+            "Message_Active": false,
             "Announcement_Number": 1,
             "Message": "Test Message For General uApps"
         }
