@@ -7,7 +7,7 @@
 	"uApps_News": "uTime 6.1 Out Now!",
     "messages": {
         "uTime": {
-            "Message_Active": false,
+            "Message_Active": true,
             "Announcement_Number": 1,
             "Message": "Test Message"
         },
