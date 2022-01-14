@@ -12,7 +12,7 @@
             "Message": "Test Message"
         },
         "uSurf": {
-            "Message_Active": false,
+            "Message_Active": true,
             "Announcement_Number": 1,
             "Message": "Test Message"
         },
