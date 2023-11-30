@@ -1,10 +1,10 @@
 {
 	"uFail_Version": "11.0.2",
 	"uSurf_Version": "6.4.1",
-	"uTime_Universal": "7.3",
+	"uTime_Universal": "7.3.1",
     "uTime_macOS": null,
 	"uTime_Legacy": "3.1.2",
-	"uApps_News": "uTime 7.3 Out Now!",
+	"uApps_News": "uTime 7.3.1 Out Now!",
     "messages": {
         "uTime": {
             "Message_Active": false,
