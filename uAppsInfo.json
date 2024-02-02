@@ -1,10 +1,10 @@
 {
 	"uFail_Version": "11.0.2",
 	"uSurf_Version": "6.4.1",
-	"uTime_Universal": "7.3.2",
+	"uTime_Universal": "8",
     "uTime_macOS": null,
 	"uTime_Legacy": "3.1.2",
-	"uApps_News": "Happy New Year!",
+	"uApps_News": "Happy Vision Day!",
     "messages": {
         "uTime": {
             "Message_Active": false,
